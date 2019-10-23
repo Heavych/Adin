@@ -1,1 +1,1 @@
-![Image description](img/maket.jpg)
+![Image description](img/layout.jpg)
