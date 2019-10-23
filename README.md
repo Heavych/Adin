@@ -1,1 +1,1 @@
-![Image description](maket.jpg)
+![Image description](img/maket.jpg)
