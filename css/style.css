@@ -3351,7 +3351,7 @@ table.reviews-post-table thead td .review-avatar{
 .lector{
     position: relative;
     margin-top: -2rem;
-    margin-bottom: -105px;
+    margin-bottom: -45px;
     color: #061935;
 }
 .lector > div{
@@ -3729,6 +3729,7 @@ table.reviews-post-table thead td .review-avatar{
     }
     .lection {
         margin-top: 100px;
+        margin-bottom: -105px;
     }
 }
 
@@ -4056,6 +4057,7 @@ table.reviews-post-table thead td .review-avatar{
 @media(max-width:700px){
     .lection {
         margin-top: 20px;
+        margin-bottom: -20px;
     }
     .header-info{
         margin-top: 1rem;
