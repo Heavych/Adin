@@ -3458,17 +3458,17 @@ table.reviews-post-table thead td .review-avatar{
     width: 100%;
     top: -15rem;
 }
-.welcom{
+.welcome{
     position: relative;
     width: 40%;
     background-color: #fff;
     padding: 2rem;
     margin: auto;
 }
-.welcom > p:not(.pricer){
+.welcome > p:not(.pricer){
     text-align: justify;
 }
-.welcom h3{
+.welcome h3{
     font-size: 2rem;
     margin-top: 0;
     text-align: center;
